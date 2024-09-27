@@ -1,7 +1,7 @@
 # CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling
 This is the official implementation of Diversified Multiplet Upcycling proposed in [*CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling*]
 
-![Overview of Diversified Multiplet Upcycling](./images/method.pdf)
+![Overview of Diversified Multiplet Upcycling](./images/method.png)
 
 ## Set up
 To get started, create and activate a Conda environment, 
