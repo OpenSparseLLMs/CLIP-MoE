@@ -62,3 +62,14 @@ This will optimize the routers with both CLIP loss and router balance loss, and 
 ## Acknowledgement
 - [Long-CLIP](https://github.com/beichenzbc/Long-CLIP) The codebase we built upon.
 - [MCL](https://github.com/MajorDavidZhang/MCL) Original implementation of Multistage Contrastive Learning.
+
+## Citation
+If you find our work helpful for your research, please consider giving a citation:
+```
+@article{zhang2024clip,
+  title={CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling},
+  author={Zhang, Jihai and Qu, Xiaoye and Zhu, Tong and Cheng, Yu},
+  journal={arXiv preprint arXiv:2409.19291},
+  year={2024}
+}
+```
